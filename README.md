@@ -7,9 +7,13 @@
 
 <br />
 
-> 🛡️ **cybersecurity & software engineering student @ canadian university dubai** >
-> 🚀 **focused on secure ai infrastructure & production-grade pipelines** >
-> 🏆 **1st place jetbrains hackathon winner** <br />
+> 🛡️ **cybersecurity & software engineering student @ canadian university dubai**
+>
+> 🚀 **focused on secure ai infrastructure & production-grade pipelines**
+>
+> 🏆 **1st place jetbrains hackathon winner**
+
+<br />
 
 ---
 
@@ -35,11 +39,10 @@
 
 ---
 
-### ✨ currently into
+### ✨ learning path
 
-
-![Microsoft](https://img.shields.io/badge/Cert-Microsoft%20SC--900-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![CompTIA](https://img.shields.io/badge/Cert-CompTIA%20Security%2B-88C0D0?style=flat-square&logo=comptia&logoColor=white)
+![Microsoft](https://img.shields.io/badge/In%20Progress-Microsoft%20SC--900-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![CompTIA](https://img.shields.io/badge/Pursuing-CompTIA%20Security%2B-88C0D0?style=flat-square&logo=comptia&logoColor=white)
 ![NIST](https://img.shields.io/badge/Standards-NIST%20AI%20RMF-A3BE8C?style=flat-square&logo=target&logoColor=white)
 ![OWASP](https://img.shields.io/badge/Framework-OWASP%20LLM%20Top%2010-B48EAD?style=flat-square&logo=owasp&logoColor=white)
 
