@@ -37,7 +37,9 @@
 
 ### ✨ currently into
 
-<img src="https://img.shields.io/badge/Focus-Cyber%20Puzzles-88C0D0?style=flat-square&logo=hackthebox&logoColor=white" /> <img src="https://img.shields.io/badge/Interest-Analog%20Photography-A3BE8C?style=flat-square&logo=kodak&logoColor=white" /> <img src="https://img.shields.io/badge/Learning-Penetration%20Testing-B48EAD?style=flat-square&logo=kali-linux&logoColor=white" />
+
+
+<img src="https://img.shields.io/badge/Learning-CompTIA%20Security%2B-88C0D0?style=flat-square&logo=comptia&logoColor=white" /> <img src="https://img.shields.io/badge/Standards-NIST%20AI%20RMF-A3BE8C?style=flat-square&logo=checkmarx&logoColor=white" /> <img src="https://img.shields.io/badge/Framework-OWASP%20LLM%20Top%2010-B48EAD?style=flat-square&logo=owasp&logoColor=white" />
 
 ---
 
