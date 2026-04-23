@@ -1,17 +1,17 @@
 <div align="center">
 
 # ☁️ nuha aburamadan
-### ai & systems engineer 
+### cybersecurity & systems engineer 
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=88C0D0&height=120&section=header&text=building%20with%20intent%20✨&fontSize=35&animation=fadeIn&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/render?type=soft&color=88C0D0&height=120&section=header&text=securing%20the%20future%20of%20ai%20🛡️&fontSize=35&animation=fadeIn&fontAlignY=50" width="100%" />
 
 <br />
 
-> ✨ **software engineering student @ canadian university dubai** ✨
+> [cite_start]🛡️ **cybersecurity & software engineering student @ canadian university dubai** 
 >
-> 🛡️ **focused on production-grade ai pipelines & secure enterprise infrastructure** 🛡️
+> [cite_start]🚀 **focused on secure ai infrastructure & production-grade pipelines** [cite: 5, 10, 26]
 >
-> 🏆 **1st place jetbrains hackathon winner** 🏆
+> [cite_start]🏆 **1st place jetbrains hackathon winner** [cite: 7, 30]
 
 <br />
 
@@ -30,18 +30,18 @@
 
 ### 🚀 featured builds
 
-| Project | Engineering Focus | Stack |
+| Project | Engineering & Security Focus | Stack |
 | :--- | :--- | :--- |
-| **[devcare](https://github.com/05nuha/DevCare)** | biometric wellness integration | `kotlin` `flask` `opencv` |
-| **[ai security @ qcri](https://github.com/05nuha/qcri-ai-security)** | enterprise-level ai safety | `python` `azure` `llm` |
-| **[pipeline engineering](https://github.com/05nuha/course-data-extractor)** | automated data extraction | `docker` `langchain` `gcp` |
-| **[scale engineering](https://github.com/05nuha/learning-path-recommender)** | 100k+ record processing | `mongodb` `rest-api` |
+| [cite_start]**[devcare](https://github.com/05nuha/DevCare)** | biometric wellness & system integration [cite: 30, 31] | `kotlin` `flask` `opencv` |
+| [cite_start]**[ai security @ qcri](https://github.com/05nuha/qcri-ai-security)** | enterprise-level ai safety & mitre atlas [cite: 11, 26] | `python` `azure` `llm` |
+| [cite_start]**[pipeline engineering](https://github.com/05nuha/course-data-extractor)** | automated data extraction & gcp [cite: 32, 34] | `docker` `langchain` `gcp` |
+| **[scale engineering](https://github.com/05nuha/learning-path-recommender)** | [cite_start]100k+ record processing & rest api [cite: 36, 39] | `mongodb` `rest-api` |
 
 ---
 
 ### ✨ currently into
 
-<img src="https://img.shields.io/badge/Learning-GenAI%20Security-EBCB8B?style=flat-square&logo=starship&logoColor=white" /> <img src="https://img.shields.io/badge/Vibe-Scandinavian%20Minimalism-A3BE8C?style=flat-square&logo=ikea&logoColor=white" /> <img src="https://img.shields.io/badge/Coding-PyCharm-B48EAD?style=flat-square&logo=pycharm&logoColor=white" />
+<img src="https://img.shields.io/badge/Learning-CompTIA%20Security%2B-88C0D0?style=flat-square&logo=comptia&logoColor=white" /> <img src="https://img.shields.io/badge/Standards-NIST%20AI%20RMF-A3BE8C?style=flat-square&logo=checkmarx&logoColor=white" /> <img src="https://img.shields.io/badge/Framework-OWASP%20LLM%20Top%2010-B48EAD?style=flat-square&logo=owasp&logoColor=white" />
 
 ---
 
