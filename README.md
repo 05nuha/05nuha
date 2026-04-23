@@ -3,18 +3,19 @@
 # ☁️ nuha aburamadan
 ### ai & systems engineer 
 
-  
-![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=building%20the%20future%20of%20ai&fontSize=40&animation=fadeIn&theme=nord)
+<img src="https://capsule-render.vercel.app/render?type=soft&color=88C0D0&height=120&section=header&text=building%20with%20intent%20✨&fontSize=35&animation=fadeIn&fontAlignY=50" width="100%" />
+
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="35" /></td>
+      <td><b>software engineering student @ canadian university dubai</b></td>
+      <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="35" /></td>
+    </tr>
+  </table>
 
 ---
 
-#### ⚡ software engineering student @ canadian university dubai
-#### 🛡️ focused on production-grade ai pipelines & secure enterprise infrastructure
-#### 🏆 1st place jetbrains hackathon winner
-
----
-
-### 🛠️ technical arsenal
+### 🎀 technical arsenal
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -25,24 +26,26 @@
 
 ---
 
-### 🚀 featured deployments
+### 🚀 featured builds
 
-| Project | Description | Stack |
+| Project | Engineering Focus | Stack |
 | :--- | :--- | :--- |
-| **[devcare](https://github.com/05nuha/DevCare)** | intellij plugin for biometric wellness | `kotlin` `flask` `opencv` |
-| **[ai security @ qcri](https://github.com/05nuha/qcri-ai-security)** | enterprise systems built with azure openai | `python` `azure` `llm` |
-| **[pipeline engineering](https://github.com/05nuha/course-data-extractor)** | automated data extraction system | `docker` `langchain` `gcp` |
-| **[scale engineering](https://github.com/05nuha/learning-path-recommender)** | rest api processing 100k+ records | `mongodb` `rest-api` |
+| **[devcare](https://github.com/05nuha/DevCare)** | biometric wellness integration | `kotlin` `flask` `opencv` |
+| **[ai security @ qcri](https://github.com/05nuha/qcri-ai-security)** | enterprise-level ai safety | `python` `azure` `llm` |
+| **[pipeline engineering](https://github.com/05nuha/course-data-extractor)** | automated data extraction | `docker` `langchain` `gcp` |
+| **[scale engineering](https://github.com/05nuha/learning-path-recommender)** | 100k+ record processing | `mongodb` `rest-api` |
+
+---
+
+### ✨ currently into
+
+<img src="https://img.shields.io/badge/Learning-GenAI%20Security-EBCB8B?style=flat-square&logo=starship&logoColor=white" /> <img src="https://img.shields.io/badge/Vibe-Scandinavian%20Minimalism-A3BE8C?style=flat-square&logo=ikea&logoColor=white" /> <img src="https://img.shields.io/badge/Coding-PyCharm-B48EAD?style=flat-square&logo=pycharm&logoColor=white" />
 
 ---
 
 ### 📊 technical metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=05nuha&show_icons=true&theme=nord&hide_border=true&align=center" alt="stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=05nuha&layout=compact&theme=nord&hide_border=true" alt="top-langs" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=05nuha&show_icons=true&theme=nord&hide_border=true&title_color=88C0D0&icon_color=A3BE8C&text_color=D8DEE9&bg_color=2E3440" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=05nuha&layout=compact&theme=nord&hide_border=true&title_color=88C0D0&icon_color=A3BE8C&text_color=D8DEE9&bg_color=2E3440" width="38%" />
 
 ---
 
