@@ -41,16 +41,16 @@
 
 ### ✨ learning path
 
-![Microsoft](https://img.shields.io/badge/In%20Progress-Microsoft%20SC--900-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![CompTIA](https://img.shields.io/badge/Pursuing-CompTIA%20Security%2B-88C0D0?style=flat-square&logo=comptia&logoColor=white)
-![NIST](https://img.shields.io/badge/Standards-NIST%20AI%20RMF-A3BE8C?style=flat-square)
-![OWASP](https://img.shields.io/badge/Framework-OWASP%20LLM%20Top%2010-B48EAD?style=flat-square)
+| Certifications | Standards & Frameworks |
+| :--- | :--- |
+| ![Microsoft](https://img.shields.io/badge/SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) | ![NIST](https://img.shields.io/badge/NIST%20AI%20RMF-A3BE8C?style=for-the-badge) |
+| ![CompTIA](https://img.shields.io/badge/Security%2B-88C0D0?style=for-the-badge&logo=comptia&logoColor=white) | ![OWASP](https://img.shields.io/badge/OWASP%20LLM-B48EAD?style=for-the-badge) |
 
 ---
 
 ### 📊 technical metrics
 
-<img src="https://github-readme-stats.vercel.app/api?username=05nuha&show_icons=true&theme=nord&hide_border=true&title_color=88C0D0&icon_color=A3BE8C&text_color=D8DEE9&bg_color=2E3440" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=05nuha&layout=compact&theme=nord&hide_border=true&title_color=88C0D0&icon_color=A3BE8C&text_color=D8DEE9&bg_color=2E3440" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=05nuha&layout=compact&theme=nord&hide_border=true&title_color=88C0D0&icon_color=A3BE8C&text_color=D8DEE9&bg_color=2E3440" width="38%" />
 
 ---
 
