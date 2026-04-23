@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☁️ nuha aburamadan ☁️
+# ☁️ nuha aburamadan 
 ### cybersecurity & systems engineer 
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-and-Emojis/main/GIFs/Header.gif" width="100%" />
