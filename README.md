@@ -5,13 +5,15 @@
 
 <img src="https://capsule-render.vercel.app/render?type=soft&color=88C0D0&height=120&section=header&text=building%20with%20intent%20✨&fontSize=35&animation=fadeIn&fontAlignY=50" width="100%" />
 
-  <table>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="35" /></td>
-      <td><b>software engineering student @ canadian university dubai</b></td>
-      <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="35" /></td>
-    </tr>
-  </table>
+<br />
+
+> ✨ **software engineering student @ canadian university dubai** ✨
+>
+> 🛡️ **focused on production-grade ai pipelines & secure enterprise infrastructure** 🛡️
+>
+> 🏆 **1st place jetbrains hackathon winner** 🏆
+
+<br />
 
 ---
 
