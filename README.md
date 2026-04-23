@@ -7,11 +7,11 @@
 
 <br />
 
-> [cite_start]🛡️ **cybersecurity & software engineering student @ canadian university dubai** 
+> 🛡️ **cybersecurity & software engineering student @ canadian university dubai**
 >
-> [cite_start]🚀 **focused on secure ai infrastructure & production-grade pipelines** [cite: 5, 10, 26]
+> 🚀 **focused on secure ai infrastructure & production-grade pipelines**
 >
-> [cite_start]🏆 **1st place jetbrains hackathon winner** [cite: 7, 30]
+> 🏆 **1st place jetbrains hackathon winner**
 
 <br />
 
@@ -32,16 +32,16 @@
 
 | Project | Engineering & Security Focus | Stack |
 | :--- | :--- | :--- |
-| [cite_start]**[devcare](https://github.com/05nuha/DevCare)** | biometric wellness & system integration [cite: 30, 31] | `kotlin` `flask` `opencv` |
-| [cite_start]**[ai security @ qcri](https://github.com/05nuha/qcri-ai-security)** | enterprise-level ai safety & mitre atlas [cite: 11, 26] | `python` `azure` `llm` |
-| [cite_start]**[pipeline engineering](https://github.com/05nuha/course-data-extractor)** | automated data extraction & gcp [cite: 32, 34] | `docker` `langchain` `gcp` |
-| **[scale engineering](https://github.com/05nuha/learning-path-recommender)** | [cite_start]100k+ record processing & rest api [cite: 36, 39] | `mongodb` `rest-api` |
+| **[devcare](https://github.com/05nuha/DevCare)** | biometric wellness & system integration | `kotlin` `flask` `opencv` |
+| **[ai security @ qcri](https://github.com/05nuha/qcri-ai-security)** | enterprise-level ai safety & mitre atlas | `python` `azure` `llm` |
+| **[pipeline engineering](https://github.com/05nuha/course-data-extractor)** | automated data extraction & gcp | `docker` `langchain` `gcp` |
+| **[scale engineering](https://github.com/05nuha/learning-path-recommender)** | 100k+ record processing & rest api | `mongodb` `rest-api` |
 
 ---
 
 ### ✨ currently into
 
-<img src="https://img.shields.io/badge/Learning-CompTIA%20Security%2B-88C0D0?style=flat-square&logo=comptia&logoColor=white" /> <img src="https://img.shields.io/badge/Standards-NIST%20AI%20RMF-A3BE8C?style=flat-square&logo=checkmarx&logoColor=white" /> <img src="https://img.shields.io/badge/Framework-OWASP%20LLM%20Top%2010-B48EAD?style=flat-square&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/Interest-Responsible%20AI-88C0D0?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Interest-Analog%20Photography-A3BE8C?style=flat-square&logo=kodak&logoColor=white" /> <img src="https://img.shields.io/badge/Interest-Cyber%20Puzzles-B48EAD?style=flat-square&logo=hackthebox&logoColor=white" />
 
 ---
 
