@@ -7,13 +7,9 @@
 
 <br />
 
-> 🛡️ **cybersecurity & software engineering student @ canadian university dubai**
->
-> 🚀 **focused on secure ai infrastructure & production-grade pipelines**
->
-> 🏆 **1st place jetbrains hackathon winner**
-
-<br />
+> 🛡️ **cybersecurity & software engineering student @ canadian university dubai** >
+> 🚀 **focused on secure ai infrastructure & production-grade pipelines** >
+> 🏆 **1st place jetbrains hackathon winner** <br />
 
 ---
 
@@ -41,7 +37,7 @@
 
 ### ✨ currently into
 
-<img src="https://img.shields.io/badge/Interest-Responsible%20AI-88C0D0?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Interest-Analog%20Photography-A3BE8C?style=flat-square&logo=kodak&logoColor=white" /> <img src="https://img.shields.io/badge/Interest-Cyber%20Puzzles-B48EAD?style=flat-square&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Cyber%20Puzzles-88C0D0?style=flat-square&logo=hackthebox&logoColor=white" /> <img src="https://img.shields.io/badge/Interest-Analog%20Photography-A3BE8C?style=flat-square&logo=kodak&logoColor=white" /> <img src="https://img.shields.io/badge/Learning-Penetration%20Testing-B48EAD?style=flat-square&logo=kali-linux&logoColor=white" />
 
 ---
 
