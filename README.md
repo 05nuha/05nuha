@@ -1,19 +1,15 @@
 <div align="center">
 
-# ☁️ nuha aburamadan
-### cybersecurity & systems engineer 
+# ☁️ nuha aburamadan  
+### cybersecurity & systems engineer  
 
 <img src="https://capsule-render.vercel.app/render?type=soft&color=88C0D0&height=120&section=header&text=securing%20the%20future%20of%20ai%20🛡️&fontSize=35&animation=fadeIn&fontAlignY=50" width="100%" />
 
-<br />
+<br/>
 
-> 🛡️ **cybersecurity & software engineering student @ canadian university dubai**
->
-> 🚀 **focused on secure ai infrastructure & production-grade pipelines**
->
-> 🏆 **1st place jetbrains hackathon winner**
-
-<br />
+🛡️ **cybersecurity & software engineering student @ canadian university dubai**  
+🚀 **focused on secure ai infrastructure & production-grade pipelines**  
+🏆 **1st place jetbrains hackathon winner**
 
 ---
 
@@ -31,7 +27,7 @@
 ### 🚀 featured builds
 
 | Project | Engineering & Security Focus | Stack |
-| :--- | :--- | :--- |
+|--------|------------------------------|--------|
 | **[devcare](https://github.com/05nuha/DevCare)** | biometric wellness & system integration | `kotlin` `flask` `opencv` |
 | **[ai security @ qcri](https://github.com/05nuha/qcri-ai-security)** | enterprise-level ai safety & mitre atlas | `python` `azure` `llm` |
 | **[pipeline engineering](https://github.com/05nuha/course-data-extractor)** | automated data extraction & gcp | `docker` `langchain` `gcp` |
@@ -42,7 +38,7 @@
 ### ✨ learning path
 
 | Certifications | Standards & Frameworks |
-| :--- | :--- |
+|---------------|-------------------------|
 | ![Microsoft](https://img.shields.io/badge/SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) | ![NIST](https://img.shields.io/badge/NIST%20AI%20RMF-A3BE8C?style=for-the-badge) |
 | ![CompTIA](https://img.shields.io/badge/Security%2B-88C0D0?style=for-the-badge&logo=comptia&logoColor=white) | ![OWASP](https://img.shields.io/badge/OWASP%20LLM-B48EAD?style=for-the-badge) |
 
@@ -50,11 +46,16 @@
 
 ### 📊 technical metrics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=05nuha&layout=compact&theme=nord&hide_border=true&title_color=88C0D0&icon_color=A3BE8C&text_color=D8DEE9&bg_color=2E3440" width="38%" />
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=05nuha&show_icons=true&theme=nord&hide_border=true&title_color=88C0D0&icon_color=A3BE8C&text_color=D8DEE9&bg_color=2E3440" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=05nuha&layout=compact&theme=nord&hide_border=true&title_color=88C0D0&icon_color=A3BE8C&text_color=D8DEE9&bg_color=2E3440" width="48%" />
+
+</div>
 
 ---
 
-### 🌿 connect
+### 🌿 connect  
 [linkedin](https://linkedin.com/in/Nuha-Aburamadan) • [email](mailto:aburamadannuha@gmail.com)
 
 </div>
