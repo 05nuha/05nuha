@@ -7,7 +7,7 @@
 
 <br />
 
-> 🛡️ **cybersecurity & software engineering student @ canadian university dubai**
+> 🛡️ **cybersecurity student @ canadian university dubai**
 >
 > 🚀 **focused on secure ai infrastructure & production-grade pipelines**
 >
