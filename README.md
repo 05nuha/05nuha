@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☁️ nuha aburamadan
+# ☁️ nuha aburamadan ☁️
 ### cybersecurity & systems engineer 
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-and-Emojis/main/GIFs/Header.gif" width="100%" />
@@ -50,7 +50,7 @@
 
 ### 📊 technical metrics
 
-<img src="https://github-readme-stats.vercel.app/api?username=05nuha&show_icons=true&theme=nord&hide_border=true&title_color=88C0D0&icon_color=A3BE8C&text_color=D8DEE9&bg_color=2E3440" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=05nuha&layout=compact&theme=nord&hide_border=true&title_color=88C0D0&icon_color=A3BE8C&text_color=D8DEE9&bg_color=2E3440" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=05nuha&layout=compact&theme=nord&hide_border=true&title_color=88C0D0&icon_color=A3BE8C&text_color=D8DEE9&bg_color=2E3440" width="38%" />
 
 ---
 
