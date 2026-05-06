@@ -11,7 +11,6 @@
 >
 > 🚀 **focused on secure ai infrastructure & production-grade pipelines**
 >
-> 🏆 **1st place jetbrains hackathon winner**
 
 <br />
 
@@ -43,8 +42,8 @@
 
 | Certifications | Standards & Frameworks |
 | :--- | :--- |
-| ![Microsoft](https://img.shields.io/badge/SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) | `🌸 NIST AI RMF` |
-| ![CompTIA](https://img.shields.io/badge/Security%2B-88C0D0?style=for-the-badge&logo=comptia&logoColor=white) | `🛡️ OWASP LLM Top 10` |
+| ![Microsoft](https://img.shields.io/badge/SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) 
+| ![CompTIA](https://img.shields.io/badge/Security%2B-88C0D0?style=for-the-badge&logo=comptia&logoColor=white) 
 
 ---
 
