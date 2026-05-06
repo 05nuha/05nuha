@@ -40,8 +40,8 @@
 
 ### ✨ learning path
 
-| Certifications | Standards & Frameworks |
-| :--- | :--- |
+| Certifications | 
+| :--- | 
 | ![Microsoft](https://img.shields.io/badge/SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) 
 | ![CompTIA](https://img.shields.io/badge/Security%2B-88C0D0?style=for-the-badge&logo=comptia&logoColor=white) 
 
