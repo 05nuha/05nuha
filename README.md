@@ -1,11 +1,6 @@
 <div align="center">
 
-# <img src="[https://githubusercontent.com](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png)" alt="Cloud" width="25" height="25" /> nuha aburamadan
-
-
-### cybersecurity & systems engineer 
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-and-Emojis/main/GIFs/Header.gif" width="100%" />
+![hippo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW14c3hkdDl1eTl1Z24xbnF3eG1kaG4xM2Zpcjg2bGh4NTZycGdjNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2ALdE0MyuREh8ESR4W/giphy.gif) /> nuha aburamadan
 
 <br />
 
