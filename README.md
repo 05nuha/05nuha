@@ -1,6 +1,7 @@
 <div align="center">
 
-# ☁️ nuha aburamadan 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" height="25"" /> nuha aburamadan
+
 ### cybersecurity & systems engineer 
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-and-Emojis/main/GIFs/Header.gif" width="100%" />
