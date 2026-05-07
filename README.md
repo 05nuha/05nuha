@@ -1,10 +1,8 @@
 <div align="center">
 
-# <span style="font-size:2em;">nuha Aburamadan</span>
+# <span style="font-size:3em;">nuha aburamadan</span>
 
-![hippo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW14c3hkdDl1eTl1Z24xbnF3eG1kaG4xM2Zpcjg2bGh4NTZycGdjNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2ALdE0MyuREh8ESR4W/giphy.gif)
-
-
+<img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW14c3hkdDl1eTl1Z24xbnF3eG1kaG4xM2Zpcjg2bGh4NTZycGdjNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2ALdE0MyuREh8ESR4W/giphy.gif" width="100" />
 
 <br />
 
